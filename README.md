@@ -11,9 +11,8 @@ Dataset can be downloaded from [here](https://www.kaggle.com/fayomi/advertising)
 
 **WHAT I HAD DONE**
 - Discussed some major columns on which Advertisement Success depends.
-- Handling outliers of diagnosis columns. As, it is very important because at last we're predicting success rate of Advertisement.
 - Then I used different classification models present in sklearn to train the model.
-- Use Correlation coefficients to measure how strong a relationship is between two variables.
+
 
 **MODELS USED**
 -  Logistic Regression
@@ -61,6 +60,4 @@ By using Logistic Regression I got
  ``` 
 
 
-<img align="center" alt="output"  src="./Images/img.png" />
 
-<a href="https://github.com/Jagannath8">Jagannath Pal</a>
